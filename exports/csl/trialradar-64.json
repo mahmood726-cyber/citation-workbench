@@ -1,0 +1,23 @@
+{
+  "id": "trialradar-64",
+  "type": "webpage",
+  "title": "TrialRadar",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/trialradar-64.html",
+  "abstract": "TrialRadar is cataloged as Project in Tier 10 with review status, discoverability score 90/100, and readiness score 82/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Project",
+  "keyword": "Tier 10, Project, Review, high, Raise FAIR proxy maturity"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pairwise70-42",
+  "type": "software",
+  "title": "Pairwise70",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pairwise70-42.html",
+  "abstract": "Pairwise70 is cataloged as Model in Tier 6 with review status, discoverability score 84/100, and readiness score 71/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Model",
+  "keyword": "Tier 6, Model, Review, high, Raise FAIR proxy maturity"
+}

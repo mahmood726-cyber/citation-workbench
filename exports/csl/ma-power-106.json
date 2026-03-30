@@ -1,0 +1,23 @@
+{
+  "id": "ma-power-106",
+  "type": "software",
+  "title": "MA Power",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ma-power-106.html",
+  "abstract": "MA Power is cataloged as Model in Tier 10 with active status, discoverability score 95/100, and readiness score 82/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Model",
+  "keyword": "Tier 10, Model, Active, high, Monitor and maintain"
+}

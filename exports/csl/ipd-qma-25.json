@@ -1,0 +1,23 @@
+{
+  "id": "ipd-qma-25",
+  "type": "software",
+  "title": "IPD-QMA",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-qma-25.html",
+  "abstract": "IPD-QMA is cataloged as Model in Tier 4 with accepted status, discoverability score 100/100, and readiness score 88/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Model",
+  "keyword": "Tier 4, Model, Accepted, high, Monitor and maintain"
+}

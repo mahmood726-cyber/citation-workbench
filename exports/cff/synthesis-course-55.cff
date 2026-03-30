@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this project record, please cite it using the metadata below."
+title: "Synthesis Course"
+type: generic
+authors:
+  - name: "Tahir Heart Institute"
+abstract: "Synthesis Course is cataloged as Course material in Tier 8 with active status, discoverability score 30/100, and readiness score 29/100."
+date-released: 2026-03-30
+url: "https://mahmood726-cyber.github.io/portfolio-catalog/projects/synthesis-course-55.html"
+repository-code: "https://github.com/mahmood726-cyber/citation-workbench"
+license: "NOASSERTION"
+keywords:
+  - "Tier 8"
+  - "Course material"
+  - "Active"
+  - "low"
+  - "Fix indexed path"

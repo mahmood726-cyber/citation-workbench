@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this project record, please cite it using the metadata below."
+title: "IPD-QMA"
+type: software
+authors:
+  - name: "Tahir Heart Institute"
+abstract: "IPD-QMA is cataloged as Model in Tier 4 with accepted status, discoverability score 100/100, and readiness score 88/100."
+date-released: 2026-03-30
+url: "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-qma-25.html"
+repository-code: "https://github.com/mahmood726-cyber/citation-workbench"
+license: "NOASSERTION"
+keywords:
+  - "Tier 4"
+  - "Model"
+  - "Accepted"
+  - "high"
+  - "Monitor and maintain"

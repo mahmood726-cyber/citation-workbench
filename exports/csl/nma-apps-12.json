@@ -1,0 +1,23 @@
+{
+  "id": "nma-apps-12",
+  "type": "software",
+  "title": "NMA apps",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/nma-apps-12.html",
+  "abstract": "NMA apps is cataloged as HTML app in Tier 2 with archived status, discoverability score 95/100, and readiness score 86/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "HTML app",
+  "keyword": "Tier 2, HTML app, Archived, high, Monitor and maintain"
+}

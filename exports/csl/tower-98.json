@@ -1,0 +1,23 @@
+{
+  "id": "tower-98",
+  "type": "webpage",
+  "title": "tower",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/tower-98.html",
+  "abstract": "tower is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 12/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Project",
+  "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+}

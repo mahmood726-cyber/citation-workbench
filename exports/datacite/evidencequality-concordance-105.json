@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational"
+    }
+  ],
+  "titles": [
+    {
+      "title": "EvidenceQuality (Concordance)"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Project",
+    "resourceType": "Root-level project"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidencequality-concordance-105.html",
+  "subjects": [
+    {
+      "subject": "Tier 10"
+    },
+    {
+      "subject": "Root-level project"
+    },
+    {
+      "subject": "Submission ready"
+    },
+    {
+      "subject": "high"
+    },
+    {
+      "subject": "Raise FAIR proxy maturity"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "EvidenceQuality (Concordance) is cataloged as Root-level project in Tier 10 with submission ready status, discoverability score 87/100, and readiness score 73/100.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "version": "draft-citation-packet",
+  "rightsList": [
+    {
+      "rights": "No license asserted in the portfolio snapshot"
+    }
+  ]
+}

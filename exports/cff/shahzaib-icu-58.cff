@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this project record, please cite it using the metadata below."
+title: "Shahzaib ICU"
+type: software
+authors:
+  - name: "Tahir Heart Institute"
+abstract: "Shahzaib ICU is cataloged as Model in Tier 9 with submission ready status, discoverability score 95/100, and readiness score 84/100."
+date-released: 2026-03-30
+url: "https://mahmood726-cyber.github.io/portfolio-catalog/projects/shahzaib-icu-58.html"
+repository-code: "https://github.com/mahmood726-cyber/citation-workbench"
+license: "NOASSERTION"
+keywords:
+  - "Tier 9"
+  - "Model"
+  - "Submission ready"
+  - "high"
+  - "Monitor and maintain"

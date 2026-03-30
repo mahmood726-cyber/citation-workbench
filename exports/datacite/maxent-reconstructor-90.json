@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational"
+    }
+  ],
+  "titles": [
+    {
+      "title": "maxent-reconstructor"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Project",
+    "resourceType": "Project"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/maxent-reconstructor-90.html",
+  "subjects": [
+    {
+      "subject": "Tier 12"
+    },
+    {
+      "subject": "Project"
+    },
+    {
+      "subject": "Needs triage"
+    },
+    {
+      "subject": "low"
+    },
+    {
+      "subject": "Fix indexed path"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "maxent-reconstructor is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "version": "draft-citation-packet",
+  "rightsList": [
+    {
+      "rights": "No license asserted in the portfolio snapshot"
+    }
+  ]
+}

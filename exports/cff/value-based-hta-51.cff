@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this project record, please cite it using the metadata below."
+title: "Value-Based HTA"
+type: software
+authors:
+  - name: "Tahir Heart Institute"
+abstract: "Value-Based HTA is cataloged as Model in Tier 7 with submission ready status, discoverability score 100/100, and readiness score 92/100."
+date-released: 2026-03-30
+url: "https://mahmood726-cyber.github.io/portfolio-catalog/projects/value-based-hta-51.html"
+repository-code: "https://github.com/mahmood726-cyber/citation-workbench"
+license: "NOASSERTION"
+keywords:
+  - "Tier 7"
+  - "Model"
+  - "Submission ready"
+  - "high"
+  - "Monitor and maintain"

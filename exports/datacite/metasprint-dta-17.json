@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational"
+    }
+  ],
+  "titles": [
+    {
+      "title": "MetaSprint DTA"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Project",
+    "resourceType": "Project"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-dta-17.html",
+  "subjects": [
+    {
+      "subject": "Tier 3"
+    },
+    {
+      "subject": "Project"
+    },
+    {
+      "subject": "Submission ready"
+    },
+    {
+      "subject": "high"
+    },
+    {
+      "subject": "Monitor and maintain"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "MetaSprint DTA is cataloged as Project in Tier 3 with submission ready status, discoverability score 95/100, and readiness score 86/100.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "version": "draft-citation-packet",
+  "rightsList": [
+    {
+      "rights": "No license asserted in the portfolio snapshot"
+    }
+  ]
+}

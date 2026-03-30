@@ -1,0 +1,23 @@
+{
+  "id": "metasprint-dose-response-19",
+  "type": "webpage",
+  "title": "MetaSprint Dose-Response",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-dose-response-19.html",
+  "abstract": "MetaSprint Dose-Response is cataloged as Project in Tier 3 with shipped status, discoverability score 90/100, and readiness score 82/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Project",
+  "keyword": "Tier 3, Project, Shipped, high, Raise FAIR proxy maturity"
+}

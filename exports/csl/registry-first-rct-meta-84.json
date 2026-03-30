@@ -1,0 +1,23 @@
+{
+  "id": "registry-first-rct-meta-84",
+  "type": "webpage",
+  "title": "registry_first_rct_meta",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/registry-first-rct-meta-84.html",
+  "abstract": "registry_first_rct_meta is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Project",
+  "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+}

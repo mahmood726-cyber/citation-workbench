@@ -1,0 +1,23 @@
+{
+  "id": "component-nma-103",
+  "type": "software",
+  "title": "Component NMA",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/component-nma-103.html",
+  "abstract": "Component NMA is cataloged as Model in Tier 10 with needs triage status, discoverability score 64/100, and readiness score 58/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Model",
+  "keyword": "Tier 10, Model, Needs triage, medium, Freeze lifecycle status"
+}

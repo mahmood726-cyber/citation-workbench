@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Pairwise70"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Model",
+    "resourceType": "Model"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pairwise70-42.html",
+  "subjects": [
+    {
+      "subject": "Tier 6"
+    },
+    {
+      "subject": "Model"
+    },
+    {
+      "subject": "Review"
+    },
+    {
+      "subject": "high"
+    },
+    {
+      "subject": "Raise FAIR proxy maturity"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "Pairwise70 is cataloged as Model in Tier 6 with review status, discoverability score 84/100, and readiness score 71/100.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "version": "draft-citation-packet",
+  "rightsList": [
+    {
+      "rights": "No license asserted in the portfolio snapshot"
+    }
+  ]
+}

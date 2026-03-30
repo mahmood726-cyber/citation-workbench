@@ -1,0 +1,23 @@
+{
+  "id": "metaextract-65",
+  "type": "webpage",
+  "title": "MetaExtract",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaextract-65.html",
+  "abstract": "MetaExtract is cataloged as Project in Tier 10 with review status, discoverability score 84/100, and readiness score 69/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Project",
+  "keyword": "Tier 10, Project, Review, high, Raise FAIR proxy maturity"
+}

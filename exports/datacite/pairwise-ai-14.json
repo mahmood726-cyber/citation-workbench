@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Pairwise AI"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Software",
+    "resourceType": "HTML app"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pairwise-ai-14.html",
+  "subjects": [
+    {
+      "subject": "Tier 2"
+    },
+    {
+      "subject": "HTML app"
+    },
+    {
+      "subject": "Archived"
+    },
+    {
+      "subject": "high"
+    },
+    {
+      "subject": "Make Pages deliverable"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "Pairwise AI is cataloged as HTML app in Tier 2 with archived status, discoverability score 80/100, and readiness score 80/100.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "version": "draft-citation-packet",
+  "rightsList": [
+    {
+      "rights": "No license asserted in the portfolio snapshot"
+    }
+  ]
+}

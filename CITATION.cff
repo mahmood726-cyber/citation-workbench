@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use CitationWorkbench, please cite it using the metadata below."
+title: "CitationWorkbench"
+type: software
+authors:
+  - name: "Tahir Heart Institute"
+abstract: "Static citation-readiness dashboard and packet generator for the indexed C-drive research portfolio."
+url: "https://mahmood726-cyber.github.io/citation-workbench/"
+repository-code: "https://github.com/mahmood726-cyber/citation-workbench"
+license: "NOASSERTION"

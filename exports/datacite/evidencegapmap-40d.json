@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational"
+    }
+  ],
+  "titles": [
+    {
+      "title": "EvidenceGapMap"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Project",
+    "resourceType": "Root-level project"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidencegapmap-40d.html",
+  "subjects": [
+    {
+      "subject": "Tier 5"
+    },
+    {
+      "subject": "Root-level project"
+    },
+    {
+      "subject": "Paused"
+    },
+    {
+      "subject": "medium"
+    },
+    {
+      "subject": "Initialize or repair git"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "EvidenceGapMap is cataloged as Root-level project in Tier 5 with paused status, discoverability score 55/100, and readiness score 56/100.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "version": "draft-citation-packet",
+  "rightsList": [
+    {
+      "rights": "No license asserted in the portfolio snapshot"
+    }
+  ]
+}

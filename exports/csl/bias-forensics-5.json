@@ -1,0 +1,23 @@
+{
+  "id": "bias-forensics-5",
+  "type": "software",
+  "title": "Bias Forensics",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/bias-forensics-5.html",
+  "abstract": "Bias Forensics is cataloged as Python pipeline in Tier 1 with active status, discoverability score 95/100, and readiness score 81/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Python pipeline",
+  "keyword": "Tier 1, Python pipeline, Active, high, Monitor and maintain, Research Synthesis Methods"
+}

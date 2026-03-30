@@ -1,0 +1,23 @@
+{
+  "id": "causalsynth-39",
+  "type": "software",
+  "title": "CausalSynth",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/causalsynth-39.html",
+  "abstract": "CausalSynth is cataloged as Model in Tier 5 with submission ready status, discoverability score 87/100, and readiness score 75/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Model",
+  "keyword": "Tier 5, Model, Submission ready, high, Raise FAIR proxy maturity"
+}

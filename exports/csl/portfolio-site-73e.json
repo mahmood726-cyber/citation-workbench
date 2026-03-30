@@ -1,0 +1,23 @@
+{
+  "id": "portfolio-site-73e",
+  "type": "webpage",
+  "title": "Portfolio Site",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/portfolio-site-73e.html",
+  "abstract": "Portfolio Site is cataloged as Project in Tier 10 with shipped status, discoverability score 87/100, and readiness score 73/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Project",
+  "keyword": "Tier 10, Project, Shipped, high, Raise FAIR proxy maturity"
+}

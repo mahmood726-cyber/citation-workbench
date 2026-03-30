@@ -1,0 +1,23 @@
+{
+  "id": "al-mizan-4",
+  "type": "software",
+  "title": "Al-Mizan",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/al-mizan-4.html",
+  "abstract": "Al-Mizan is cataloged as HTML app in Tier 1 with submission ready status, discoverability score 100/100, and readiness score 92/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "HTML app",
+  "keyword": "Tier 1, HTML app, Submission ready, high, Monitor and maintain, BMJ Evidence-Based Medicine"
+}

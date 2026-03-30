@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational"
+    }
+  ],
+  "titles": [
+    {
+      "title": "MetaSprint Cardio Universe"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Project",
+    "resourceType": "Project"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-cardio-universe-20.html",
+  "subjects": [
+    {
+      "subject": "Tier 3"
+    },
+    {
+      "subject": "Project"
+    },
+    {
+      "subject": "Active"
+    },
+    {
+      "subject": "high"
+    },
+    {
+      "subject": "Raise FAIR proxy maturity"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "MetaSprint Cardio Universe is cataloged as Project in Tier 3 with active status, discoverability score 90/100, and readiness score 82/100.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "version": "draft-citation-packet",
+  "rightsList": [
+    {
+      "rights": "No license asserted in the portfolio snapshot"
+    }
+  ]
+}

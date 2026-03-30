@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this project record, please cite it using the metadata below."
+title: "NMA apps"
+type: software
+authors:
+  - name: "Tahir Heart Institute"
+abstract: "NMA apps is cataloged as HTML app in Tier 2 with archived status, discoverability score 95/100, and readiness score 86/100."
+date-released: 2026-03-30
+url: "https://mahmood726-cyber.github.io/portfolio-catalog/projects/nma-apps-12.html"
+repository-code: "https://github.com/mahmood726-cyber/citation-workbench"
+license: "NOASSERTION"
+keywords:
+  - "Tier 2"
+  - "HTML app"
+  - "Archived"
+  - "high"
+  - "Monitor and maintain"

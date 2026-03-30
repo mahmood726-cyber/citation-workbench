@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CitationWorkbench</title>
+  <meta name="description" content="Citation packet generator and readiness dashboard for the indexed C-drive research portfolio.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Citation Layer</p>
+        <h1>CitationWorkbench</h1>
+        <p class="hero-text">
+          A static citation factory over the indexed C-drive portfolio, generating CFF, DataCite draft JSON,
+          CiteProc JSON, BibTeX, and packet pages for every project with a public PortfolioCatalog landing page.
+        </p>
+      </div>
+      <div class="hero-links" id="export-links"></div>
+    </header>
+
+    <main class="content-grid">
+      <section class="panel">
+        <div class="section-head">
+          <p class="eyebrow">Coverage</p>
+          <h2>Citation Metrics</h2>
+        </div>
+        <div class="metric-grid" id="metric-grid"></div>
+      </section>
+
+      <section class="panel">
+        <div class="section-head">
+          <p class="eyebrow">Backlog</p>
+          <h2>Citation Gaps</h2>
+        </div>
+        <div class="chip-grid" id="gap-grid"></div>
+      </section>
+
+      <section class="panel">
+        <div class="section-head">
+          <p class="eyebrow">Types</p>
+          <h2>DataCite Resource Types</h2>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Type</th>
+                <th>Projects</th>
+                <th>High readiness</th>
+              </tr>
+            </thead>
+            <tbody id="type-table"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel panel-wide">
+        <div class="section-head">
+          <p class="eyebrow">Search</p>
+          <h2>Citation Packets</h2>
+        </div>
+        <form class="filter-bar">
+          <label>
+            <span>Search</span>
+            <input id="search-input" type="search" placeholder="Project, type, tier, journal">
+          </label>
+          <label>
+            <span>Band</span>
+            <select id="band-select">
+              <option value="">All bands</option>
+              <option value="high">High</option>
+              <option value="medium">Medium</option>
+              <option value="low">Low</option>
+            </select>
+          </label>
+          <label>
+            <span>Resource Type</span>
+            <select id="type-select">
+              <option value="">All types</option>
+            </select>
+          </label>
+          <label>
+            <span>Sort</span>
+            <select id="sort-select">
+              <option value="score">Readiness</option>
+              <option value="name">Name</option>
+              <option value="year">Year</option>
+            </select>
+          </label>
+        </form>
+        <p class="results-copy" id="results-copy"></p>
+        <div class="project-grid" id="project-grid"></div>
+      </section>
+    </main>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

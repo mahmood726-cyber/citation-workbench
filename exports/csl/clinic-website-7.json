@@ -1,0 +1,23 @@
+{
+  "id": "clinic-website-7",
+  "type": "software",
+  "title": "Clinic Website",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/clinic-website-7.html",
+  "abstract": "Clinic Website is cataloged as Static site in Tier 1 with shipped status, discoverability score 100/100, and readiness score 92/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Static site",
+  "keyword": "Tier 1, Static site, Shipped, high, Monitor and maintain"
+}

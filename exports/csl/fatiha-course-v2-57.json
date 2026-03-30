@@ -1,0 +1,23 @@
+{
+  "id": "fatiha-course-v2-57",
+  "type": "report",
+  "title": "Fatiha Course v2",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/fatiha-course-v2-57.html",
+  "abstract": "Fatiha Course v2 is cataloged as Project in Tier 8 with needs triage status, discoverability score 52/100, and readiness score 63/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Project",
+  "keyword": "Tier 8, Project, Needs triage, medium, Freeze lifecycle status"
+}

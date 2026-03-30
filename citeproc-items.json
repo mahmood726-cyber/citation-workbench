@@ -1,0 +1,3087 @@
+{
+  "generatedAt": "2026-03-30T16:36:06+00:00",
+  "items": [
+    {
+      "id": "hta-artifact-standard-11",
+      "type": "software",
+      "title": "HTA Artifact Standard",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-artifact-standard-11.html",
+      "abstract": "HTA Artifact Standard is cataloged as HTML app in Tier 2 with shipped status, discoverability score 100/100, and readiness score 96/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "HTML app",
+      "keyword": "Tier 2, HTML app, Shipped, high, Monitor and maintain"
+    },
+    {
+      "id": "adaptsim-6",
+      "type": "software",
+      "title": "AdaptSim",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/adaptsim-6.html",
+      "abstract": "AdaptSim is cataloged as HTML app in Tier 1 with submission ready status, discoverability score 100/100, and readiness score 92/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "HTML app",
+      "keyword": "Tier 1, HTML app, Submission ready, high, Monitor and maintain, Lancet Digital Health + F1000"
+    },
+    {
+      "id": "al-mizan-4",
+      "type": "software",
+      "title": "Al-Mizan",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/al-mizan-4.html",
+      "abstract": "Al-Mizan is cataloged as HTML app in Tier 1 with submission ready status, discoverability score 100/100, and readiness score 92/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "HTML app",
+      "keyword": "Tier 1, HTML app, Submission ready, high, Monitor and maintain, BMJ Evidence-Based Medicine"
+    },
+    {
+      "id": "clinic-website-7",
+      "type": "software",
+      "title": "Clinic Website",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/clinic-website-7.html",
+      "abstract": "Clinic Website is cataloged as Static site in Tier 1 with shipped status, discoverability score 100/100, and readiness score 92/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Static site",
+      "keyword": "Tier 1, Static site, Shipped, high, Monitor and maintain"
+    },
+    {
+      "id": "hta-transportability-50",
+      "type": "software",
+      "title": "HTA Transportability",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-transportability-50.html",
+      "abstract": "HTA Transportability is cataloged as Model in Tier 7 with submission ready status, discoverability score 100/100, and readiness score 92/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 7, Model, Submission ready, high, Monitor and maintain"
+    },
+    {
+      "id": "ipd-meta-pro-9",
+      "type": "software",
+      "title": "IPD-Meta-Pro",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-meta-pro-9.html",
+      "abstract": "IPD-Meta-Pro is cataloged as HTML app in Tier 2 with shipped status, discoverability score 100/100, and readiness score 92/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "HTML app",
+      "keyword": "Tier 2, HTML app, Shipped, high, Monitor and maintain"
+    },
+    {
+      "id": "value-based-hta-51",
+      "type": "software",
+      "title": "Value-Based HTA",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/value-based-hta-51.html",
+      "abstract": "Value-Based HTA is cataloged as Model in Tier 7 with submission ready status, discoverability score 100/100, and readiness score 92/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 7, Model, Submission ready, high, Monitor and maintain"
+    },
+    {
+      "id": "dta-pro-10",
+      "type": "software",
+      "title": "DTA Pro",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dta-pro-10.html",
+      "abstract": "DTA Pro is cataloged as HTML app in Tier 2 with archived status, discoverability score 100/100, and readiness score 90/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "HTML app",
+      "keyword": "Tier 2, HTML app, Archived, high, Monitor and maintain"
+    },
+    {
+      "id": "hta-evidence-integrity-49",
+      "type": "software",
+      "title": "HTA Evidence Integrity",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-evidence-integrity-49.html",
+      "abstract": "HTA Evidence Integrity is cataloged as Model in Tier 7 with submission ready status, discoverability score 100/100, and readiness score 90/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 7, Model, Submission ready, high, Monitor and maintain"
+    },
+    {
+      "id": "cres-24",
+      "type": "software",
+      "title": "CRES",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/cres-24.html",
+      "abstract": "CRES is cataloged as Model in Tier 4 with submission ready status, discoverability score 100/100, and readiness score 88/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 4, Model, Submission ready, high, Monitor and maintain"
+    },
+    {
+      "id": "gwam-26",
+      "type": "software",
+      "title": "GWAM",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/gwam-26.html",
+      "abstract": "GWAM is cataloged as Model in Tier 4 with submission ready status, discoverability score 100/100, and readiness score 88/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 4, Model, Submission ready, high, Monitor and maintain"
+    },
+    {
+      "id": "heterogeneityase-22",
+      "type": "software",
+      "title": "HeterogeneityASE",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/heterogeneityase-22.html",
+      "abstract": "HeterogeneityASE is cataloged as Model in Tier 4 with submission ready status, discoverability score 100/100, and readiness score 88/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 4, Model, Submission ready, high, Monitor and maintain"
+    },
+    {
+      "id": "ipd-qma-25",
+      "type": "software",
+      "title": "IPD-QMA",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-qma-25.html",
+      "abstract": "IPD-QMA is cataloged as Model in Tier 4 with accepted status, discoverability score 100/100, and readiness score 88/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 4, Model, Accepted, high, Monitor and maintain"
+    },
+    {
+      "id": "predictiongap-40c",
+      "type": "webpage",
+      "title": "PredictionGap",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/predictiongap-40c.html",
+      "abstract": "PredictionGap is cataloged as Root-level project in Tier 5 with submission ready status, discoverability score 100/100, and readiness score 88/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Root-level project",
+      "keyword": "Tier 5, Root-level project, Submission ready, high, Monitor and maintain"
+    },
+    {
+      "id": "synthesis-fatiha-29",
+      "type": "software",
+      "title": "SYNTHESIS (FATIHA)",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/synthesis-fatiha-29.html",
+      "abstract": "SYNTHESIS (FATIHA) is cataloged as Model in Tier 4 with submission ready status, discoverability score 100/100, and readiness score 88/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 4, Model, Submission ready, high, Monitor and maintain"
+    },
+    {
+      "id": "metareproducer-3",
+      "type": "software",
+      "title": "MetaReproducer",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metareproducer-3.html",
+      "abstract": "MetaReproducer is cataloged as Python pipeline+HTML in Tier 1 with submission ready status, discoverability score 100/100, and readiness score 85/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Python pipeline+HTML",
+      "keyword": "Tier 1, Python pipeline+HTML, Submission ready, high, Monitor and maintain, BMJ"
+    },
+    {
+      "id": "living-meta-15",
+      "type": "software",
+      "title": "Living-Meta",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/living-meta-15.html",
+      "abstract": "Living-Meta is cataloged as HTML app in Tier 2 with paused status, discoverability score 95/100, and readiness score 86/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "HTML app",
+      "keyword": "Tier 2, HTML app, Paused, high, Monitor and maintain"
+    },
+    {
+      "id": "metaoverfit-30",
+      "type": "webpage",
+      "title": "metaoverfit",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaoverfit-30.html",
+      "abstract": "metaoverfit is cataloged as Project in Tier 4 with submission ready status, discoverability score 95/100, and readiness score 86/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 4, Project, Submission ready, high, Monitor and maintain"
+    },
+    {
+      "id": "metasprint-autopilot-16",
+      "type": "webpage",
+      "title": "MetaSprint Autopilot",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-autopilot-16.html",
+      "abstract": "MetaSprint Autopilot is cataloged as Project in Tier 3 with submission ready status, discoverability score 95/100, and readiness score 86/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 3, Project, Submission ready, high, Monitor and maintain"
+    },
+    {
+      "id": "metasprint-dta-17",
+      "type": "webpage",
+      "title": "MetaSprint DTA",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-dta-17.html",
+      "abstract": "MetaSprint DTA is cataloged as Project in Tier 3 with submission ready status, discoverability score 95/100, and readiness score 86/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 3, Project, Submission ready, high, Monitor and maintain"
+    },
+    {
+      "id": "nma-apps-12",
+      "type": "software",
+      "title": "NMA apps",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/nma-apps-12.html",
+      "abstract": "NMA apps is cataloged as HTML app in Tier 2 with archived status, discoverability score 95/100, and readiness score 86/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "HTML app",
+      "keyword": "Tier 2, HTML app, Archived, high, Monitor and maintain"
+    },
+    {
+      "id": "outcomereportingbias-40a",
+      "type": "webpage",
+      "title": "OutcomeReportingBias",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/outcomereportingbias-40a.html",
+      "abstract": "OutcomeReportingBias is cataloged as Root-level project in Tier 5 with submission ready status, discoverability score 95/100, and readiness score 86/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Root-level project",
+      "keyword": "Tier 5, Root-level project, Submission ready, high, Monitor and maintain"
+    },
+    {
+      "id": "overlapdetector-40b",
+      "type": "webpage",
+      "title": "OverlapDetector",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/overlapdetector-40b.html",
+      "abstract": "OverlapDetector is cataloged as Root-level project in Tier 5 with submission ready status, discoverability score 95/100, and readiness score 86/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Root-level project",
+      "keyword": "Tier 5, Root-level project, Submission ready, high, Monitor and maintain"
+    },
+    {
+      "id": "ubcma-106",
+      "type": "webpage",
+      "title": "UBCMA",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ubcma-106.html",
+      "abstract": "UBCMA is cataloged as Root-level project in Tier 4 with active status, discoverability score 95/100, and readiness score 86/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Root-level project",
+      "keyword": "Tier 4, Root-level project, Active, high, Monitor and maintain"
+    },
+    {
+      "id": "clinic-site-74",
+      "type": "webpage",
+      "title": "Clinic Site",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/clinic-site-74.html",
+      "abstract": "Clinic Site is cataloged as Project in Tier 11 with shipped status, discoverability score 95/100, and readiness score 84/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 11, Project, Shipped, high, Monitor and maintain"
+    },
+    {
+      "id": "grma-28",
+      "type": "software",
+      "title": "GRMA",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/grma-28.html",
+      "abstract": "GRMA is cataloged as Model in Tier 4 with submission ready status, discoverability score 95/100, and readiness score 84/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 4, Model, Submission ready, high, Monitor and maintain"
+    },
+    {
+      "id": "pub-bias-simulation-31",
+      "type": "webpage",
+      "title": "pub-bias-simulation",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pub-bias-simulation-31.html",
+      "abstract": "pub-bias-simulation is cataloged as Project in Tier 4 with paused status, discoverability score 95/100, and readiness score 84/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 4, Project, Paused, high, Monitor and maintain"
+    },
+    {
+      "id": "rmstnma-32",
+      "type": "webpage",
+      "title": "rmstnma",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rmstnma-32.html",
+      "abstract": "rmstnma is cataloged as Project in Tier 4 with paused status, discoverability score 95/100, and readiness score 84/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 4, Project, Paused, high, Monitor and maintain"
+    },
+    {
+      "id": "shahzaib-icu-58",
+      "type": "software",
+      "title": "Shahzaib ICU",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/shahzaib-icu-58.html",
+      "abstract": "Shahzaib ICU is cataloged as Model in Tier 9 with submission ready status, discoverability score 95/100, and readiness score 84/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 9, Model, Submission ready, high, Monitor and maintain"
+    },
+    {
+      "id": "ma-power-106",
+      "type": "software",
+      "title": "MA Power",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ma-power-106.html",
+      "abstract": "MA Power is cataloged as Model in Tier 10 with active status, discoverability score 95/100, and readiness score 82/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 10, Model, Active, high, Monitor and maintain"
+    },
+    {
+      "id": "bias-forensics-5",
+      "type": "software",
+      "title": "Bias Forensics",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/bias-forensics-5.html",
+      "abstract": "Bias Forensics is cataloged as Python pipeline in Tier 1 with active status, discoverability score 95/100, and readiness score 81/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Python pipeline",
+      "keyword": "Tier 1, Python pipeline, Active, high, Monitor and maintain, Research Synthesis Methods"
+    },
+    {
+      "id": "501mlm-23",
+      "type": "webpage",
+      "title": "501MLM",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/501mlm-23.html",
+      "abstract": "501MLM is cataloged as Project in Tier 4 with shipped status, discoverability score 90/100, and readiness score 82/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 4, Project, Shipped, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "501mlm-submission-37b",
+      "type": "webpage",
+      "title": "501MLM_Submission",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/501mlm-submission-37b.html",
+      "abstract": "501MLM_Submission is cataloged as Project in Tier 4 with submission ready status, discoverability score 90/100, and readiness score 82/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 4, Project, Submission ready, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "autograde-54",
+      "type": "webpage",
+      "title": "AutoGRADE",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/autograde-54.html",
+      "abstract": "AutoGRADE is cataloged as Project in Tier 7 with shipped status, discoverability score 90/100, and readiness score 82/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 7, Project, Shipped, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "hta-unified-intel-52",
+      "type": "software",
+      "title": "HTA Unified Intel",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-unified-intel-52.html",
+      "abstract": "HTA Unified Intel is cataloged as Model in Tier 7 with paused status, discoverability score 90/100, and readiness score 82/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 7, Model, Paused, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "lfa-cbamm-37a",
+      "type": "webpage",
+      "title": "LFA (cbamm)",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/lfa-cbamm-37a.html",
+      "abstract": "LFA (cbamm) is cataloged as Project in Tier 4 with shipped status, discoverability score 90/100, and readiness score 82/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 4, Project, Shipped, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "metasprint-cardio-universe-20",
+      "type": "webpage",
+      "title": "MetaSprint Cardio Universe",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-cardio-universe-20.html",
+      "abstract": "MetaSprint Cardio Universe is cataloged as Project in Tier 3 with active status, discoverability score 90/100, and readiness score 82/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 3, Project, Active, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "metasprint-dose-response-19",
+      "type": "webpage",
+      "title": "MetaSprint Dose-Response",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-dose-response-19.html",
+      "abstract": "MetaSprint Dose-Response is cataloged as Project in Tier 3 with shipped status, discoverability score 90/100, and readiness score 82/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 3, Project, Shipped, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "metasprint-nma-18",
+      "type": "webpage",
+      "title": "MetaSprint NMA",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-nma-18.html",
+      "abstract": "MetaSprint NMA is cataloged as Project in Tier 3 with shipped status, discoverability score 90/100, and readiness score 82/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 3, Project, Shipped, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "metaverse-robust-ma-33",
+      "type": "webpage",
+      "title": "metaverse-robust-MA",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaverse-robust-ma-33.html",
+      "abstract": "metaverse-robust-MA is cataloged as Project in Tier 4 with shipped status, discoverability score 90/100, and readiness score 82/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 4, Project, Shipped, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "mlmresearch-34",
+      "type": "webpage",
+      "title": "MLMResearch",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mlmresearch-34.html",
+      "abstract": "MLMResearch is cataloged as Project in Tier 4 with shipped status, discoverability score 90/100, and readiness score 82/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 4, Project, Shipped, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "trialradar-64",
+      "type": "webpage",
+      "title": "TrialRadar",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/trialradar-64.html",
+      "abstract": "TrialRadar is cataloged as Project in Tier 10 with review status, discoverability score 90/100, and readiness score 82/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 10, Project, Review, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "wasserstein-37",
+      "type": "webpage",
+      "title": "wasserstein",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/wasserstein-37.html",
+      "abstract": "wasserstein is cataloged as Project in Tier 4 with shipped status, discoverability score 90/100, and readiness score 82/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 4, Project, Shipped, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "metaoverfit-paper-37c",
+      "type": "webpage",
+      "title": "metaoverfit-paper",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaoverfit-paper-37c.html",
+      "abstract": "metaoverfit-paper is cataloged as Project in Tier 4 with paused status, discoverability score 90/100, and readiness score 80/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 4, Project, Paused, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "paper1-cbamm-35",
+      "type": "webpage",
+      "title": "Paper1 (cbamm)",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/paper1-cbamm-35.html",
+      "abstract": "Paper1 (cbamm) is cataloged as Project in Tier 4 with paused status, discoverability score 90/100, and readiness score 80/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 4, Project, Paused, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "cardiooracle-1",
+      "type": "software",
+      "title": "CardioOracle",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/cardiooracle-1.html",
+      "abstract": "CardioOracle is cataloged as HTML app in Tier 1 with submission ready status, discoverability score 90/100, and readiness score 79/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "HTML app",
+      "keyword": "Tier 1, HTML app, Submission ready, high, Raise FAIR proxy maturity, Lancet Digital Health"
+    },
+    {
+      "id": "meta-regression-113",
+      "type": "software",
+      "title": "Meta-Regression",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/meta-regression-113.html",
+      "abstract": "Meta-Regression is cataloged as Model in Tier 10 with active status, discoverability score 90/100, and readiness score 77/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 10, Model, Active, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "metaguard-79",
+      "type": "software",
+      "title": "MetaGuard",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaguard-79.html",
+      "abstract": "MetaGuard is cataloged as Model in Tier 10 with active status, discoverability score 90/100, and readiness score 77/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 10, Model, Active, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "pooling-suite-112",
+      "type": "software",
+      "title": "Pooling Suite",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pooling-suite-112.html",
+      "abstract": "Pooling Suite is cataloged as Model in Tier 10 with active status, discoverability score 90/100, and readiness score 77/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 10, Model, Active, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "pub-bias-suite-111",
+      "type": "software",
+      "title": "Pub Bias Suite",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pub-bias-suite-111.html",
+      "abstract": "Pub Bias Suite is cataloged as Model in Tier 10 with active status, discoverability score 90/100, and readiness score 77/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 10, Model, Active, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "rct-extractor-v2-41",
+      "type": "webpage",
+      "title": "RCT Extractor v2",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rct-extractor-v2-41.html",
+      "abstract": "RCT Extractor v2 is cataloged as Project in Tier 6 with active status, discoverability score 90/100, and readiness score 77/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 6, Project, Active, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "hta-oman-53",
+      "type": "webpage",
+      "title": "HTA Oman",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-oman-53.html",
+      "abstract": "HTA Oman is cataloged as Project in Tier 7 with paused status, discoverability score 90/100, and readiness score 76/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 7, Project, Paused, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "asa-63",
+      "type": "software",
+      "title": "Asa",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/asa-63.html",
+      "abstract": "Asa is cataloged as Model in Tier 10 with review status, discoverability score 87/100, and readiness score 75/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 10, Model, Review, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "bayesian-ma-109",
+      "type": "software",
+      "title": "Bayesian MA",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/bayesian-ma-109.html",
+      "abstract": "Bayesian MA is cataloged as Model in Tier 10 with active status, discoverability score 87/100, and readiness score 75/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 10, Model, Active, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "benfordma-107",
+      "type": "webpage",
+      "title": "BenfordMA",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/benfordma-107.html",
+      "abstract": "BenfordMA is cataloged as Root-level project in Tier 10 with active status, discoverability score 87/100, and readiness score 75/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Root-level project",
+      "keyword": "Tier 10, Root-level project, Active, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "causalsynth-39",
+      "type": "software",
+      "title": "CausalSynth",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/causalsynth-39.html",
+      "abstract": "CausalSynth is cataloged as Model in Tier 5 with submission ready status, discoverability score 87/100, and readiness score 75/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 5, Model, Submission ready, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "ma-workbench-110",
+      "type": "software",
+      "title": "MA Workbench",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ma-workbench-110.html",
+      "abstract": "MA Workbench is cataloged as Model in Tier 10 with shipped status, discoverability score 87/100, and readiness score 75/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 10, Model, Shipped, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "mapriors-40",
+      "type": "software",
+      "title": "MAPriors",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mapriors-40.html",
+      "abstract": "MAPriors is cataloged as Model in Tier 5 with submission ready status, discoverability score 87/100, and readiness score 75/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 5, Model, Submission ready, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "multiversema-38",
+      "type": "software",
+      "title": "MultiverseMA",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/multiversema-38.html",
+      "abstract": "MultiverseMA is cataloged as Model in Tier 5 with submission ready status, discoverability score 87/100, and readiness score 75/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 5, Model, Submission ready, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "prisma-checker-107",
+      "type": "software",
+      "title": "PRISMA Checker",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/prisma-checker-107.html",
+      "abstract": "PRISMA Checker is cataloged as Model in Tier 10 with active status, discoverability score 87/100, and readiness score 75/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 10, Model, Active, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "evidencequality-concordance-105",
+      "type": "webpage",
+      "title": "EvidenceQuality (Concordance)",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidencequality-concordance-105.html",
+      "abstract": "EvidenceQuality (Concordance) is cataloged as Root-level project in Tier 10 with submission ready status, discoverability score 87/100, and readiness score 73/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Root-level project",
+      "keyword": "Tier 10, Root-level project, Submission ready, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "living-ma-engine-73f",
+      "type": "webpage",
+      "title": "Living MA Engine",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/living-ma-engine-73f.html",
+      "abstract": "Living MA Engine is cataloged as Project in Tier 10 with active status, discoverability score 87/100, and readiness score 73/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 10, Project, Active, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "metashift-108a",
+      "type": "webpage",
+      "title": "MetaShift",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metashift-108a.html",
+      "abstract": "MetaShift is cataloged as Root-level project in Tier 10 with active status, discoverability score 87/100, and readiness score 73/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Root-level project",
+      "keyword": "Tier 10, Root-level project, Active, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "portfolio-site-73e",
+      "type": "webpage",
+      "title": "Portfolio Site",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/portfolio-site-73e.html",
+      "abstract": "Portfolio Site is cataloged as Project in Tier 10 with shipped status, discoverability score 87/100, and readiness score 73/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 10, Project, Shipped, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "private-website-75",
+      "type": "webpage",
+      "title": "Private Website",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/private-website-75.html",
+      "abstract": "Private Website is cataloged as Project in Tier 11 with shipped status, discoverability score 87/100, and readiness score 73/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 11, Project, Shipped, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "truthcert-pairwisepro-8",
+      "type": "software",
+      "title": "TruthCert PairwisePro",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/truthcert-pairwisepro-8.html",
+      "abstract": "TruthCert PairwisePro is cataloged as HTML app in Tier 2 with maintained status, discoverability score 85/100, and readiness score 86/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "HTML app",
+      "keyword": "Tier 2, HTML app, Maintained, high, Make Pages deliverable"
+    },
+    {
+      "id": "finrenone-rapidmeta-21",
+      "type": "webpage",
+      "title": "Finrenone RapidMeta",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/finrenone-rapidmeta-21.html",
+      "abstract": "Finrenone RapidMeta is cataloged as Project in Tier 3 with archived status, discoverability score 85/100, and readiness score 82/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 3, Project, Archived, high, Make Pages deliverable"
+    },
+    {
+      "id": "cv-rct-analysis-67",
+      "type": "webpage",
+      "title": "cv-rct-analysis",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/cv-rct-analysis-67.html",
+      "abstract": "cv-rct-analysis is cataloged as Project in Tier 10 with shipped status, discoverability score 84/100, and readiness score 71/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 10, Project, Shipped, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "pairwise70-42",
+      "type": "software",
+      "title": "Pairwise70",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pairwise70-42.html",
+      "abstract": "Pairwise70 is cataloged as Model in Tier 6 with review status, discoverability score 84/100, and readiness score 71/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 6, Model, Review, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "metaextract-65",
+      "type": "webpage",
+      "title": "MetaExtract",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaextract-65.html",
+      "abstract": "MetaExtract is cataloged as Project in Tier 10 with review status, discoverability score 84/100, and readiness score 69/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 10, Project, Review, high, Raise FAIR proxy maturity"
+    },
+    {
+      "id": "fragility-atlas-2",
+      "type": "software",
+      "title": "Fragility Atlas",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/fragility-atlas-2.html",
+      "abstract": "Fragility Atlas is cataloged as Pipeline+Dashboard in Tier 1 with needs triage status, discoverability score 80/100, and readiness score 81/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Pipeline+Dashboard",
+      "keyword": "Tier 1, Pipeline+Dashboard, Needs triage, high, Freeze lifecycle status, BMJ"
+    },
+    {
+      "id": "dose-response-nma-13",
+      "type": "software",
+      "title": "Dose-Response NMA",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dose-response-nma-13.html",
+      "abstract": "Dose-Response NMA is cataloged as HTML app in Tier 2 with archived status, discoverability score 80/100, and readiness score 80/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "HTML app",
+      "keyword": "Tier 2, HTML app, Archived, high, Make Pages deliverable"
+    },
+    {
+      "id": "pairwise-ai-14",
+      "type": "software",
+      "title": "Pairwise AI",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pairwise-ai-14.html",
+      "abstract": "Pairwise AI is cataloged as HTML app in Tier 2 with archived status, discoverability score 80/100, and readiness score 80/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "HTML app",
+      "keyword": "Tier 2, HTML app, Archived, high, Make Pages deliverable"
+    },
+    {
+      "id": "paper2-36",
+      "type": "webpage",
+      "title": "Paper2",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/paper2-36.html",
+      "abstract": "Paper2 is cataloged as Project in Tier 4 with paused status, discoverability score 75/100, and readiness score 70/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 4, Project, Paused, high, Make Pages deliverable"
+    },
+    {
+      "id": "ctgov-search-strategies-66",
+      "type": "webpage",
+      "title": "ctgov-search-strategies",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ctgov-search-strategies-66.html",
+      "abstract": "ctgov-search-strategies is cataloged as Project in Tier 10 with active status, discoverability score 72/100, and readiness score 65/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 10, Project, Active, high, Make Pages deliverable"
+    },
+    {
+      "id": "mem-meta-ecosystem-27",
+      "type": "software",
+      "title": "MEM (Meta Ecosystem)",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mem-meta-ecosystem-27.html",
+      "abstract": "MEM (Meta Ecosystem) is cataloged as Model in Tier 4 with submission ready status, discoverability score 70/100, and readiness score 78/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 4, Model, Submission ready, high, Complete manuscript bundle"
+    },
+    {
+      "id": "dta70-48",
+      "type": "webpage",
+      "title": "DTA70",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dta70-48.html",
+      "abstract": "DTA70 is cataloged as Project in Tier 6 with needs triage status, discoverability score 67/100, and readiness score 69/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 6, Project, Needs triage, medium, Freeze lifecycle status"
+    },
+    {
+      "id": "evidence-half-life-108",
+      "type": "webpage",
+      "title": "Evidence Half-Life",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidence-half-life-108.html",
+      "abstract": "Evidence Half-Life is cataloged as Root-level project in Tier 10 with needs triage status, discoverability score 67/100, and readiness score 69/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Root-level project",
+      "keyword": "Tier 10, Root-level project, Needs triage, medium, Freeze lifecycle status"
+    },
+    {
+      "id": "asa-73a",
+      "type": "software",
+      "title": "Asa",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/asa-73a.html",
+      "abstract": "Asa is cataloged as Model in Tier 10 with needs triage status, discoverability score 64/100, and readiness score 67/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 10, Model, Needs triage, medium, Freeze lifecycle status"
+    },
+    {
+      "id": "burhan-59",
+      "type": "webpage",
+      "title": "Burhan",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/burhan-59.html",
+      "abstract": "Burhan is cataloged as Project in Tier 9 with needs triage status, discoverability score 64/100, and readiness score 61/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 9, Project, Needs triage, medium, Freeze lifecycle status"
+    },
+    {
+      "id": "repo300-enma-snma-47",
+      "type": "webpage",
+      "title": "repo300-ENMA-SNMA",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/repo300-enma-snma-47.html",
+      "abstract": "repo300-ENMA-SNMA is cataloged as Project in Tier 6 with needs triage status, discoverability score 64/100, and readiness score 61/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 6, Project, Needs triage, medium, Freeze lifecycle status"
+    },
+    {
+      "id": "worldipd-61",
+      "type": "webpage",
+      "title": "WorldIPD",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/worldipd-61.html",
+      "abstract": "WorldIPD is cataloged as Project in Tier 9 with needs triage status, discoverability score 64/100, and readiness score 61/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 9, Project, Needs triage, medium, Freeze lifecycle status"
+    },
+    {
+      "id": "worldipd-private-62",
+      "type": "webpage",
+      "title": "WorldIPD-private",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/worldipd-private-62.html",
+      "abstract": "WorldIPD-private is cataloged as Project in Tier 9 with needs triage status, discoverability score 64/100, and readiness score 61/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 9, Project, Needs triage, medium, Freeze lifecycle status"
+    },
+    {
+      "id": "component-nma-103",
+      "type": "software",
+      "title": "Component NMA",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/component-nma-103.html",
+      "abstract": "Component NMA is cataloged as Model in Tier 10 with needs triage status, discoverability score 64/100, and readiness score 58/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 10, Model, Needs triage, medium, Freeze lifecycle status"
+    },
+    {
+      "id": "metamethods-80",
+      "type": "software",
+      "title": "MetaMethods",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metamethods-80.html",
+      "abstract": "MetaMethods is cataloged as Model in Tier 10 with needs triage status, discoverability score 64/100, and readiness score 58/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 10, Model, Needs triage, medium, Freeze lifecycle status"
+    },
+    {
+      "id": "rmst-meta-104",
+      "type": "webpage",
+      "title": "RMST Meta",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rmst-meta-104.html",
+      "abstract": "RMST Meta is cataloged as Root-level project in Tier 10 with needs triage status, discoverability score 64/100, and readiness score 58/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Root-level project",
+      "keyword": "Tier 10, Root-level project, Needs triage, medium, Freeze lifecycle status"
+    },
+    {
+      "id": "rob-assessor-102",
+      "type": "software",
+      "title": "RoB Assessor",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rob-assessor-102.html",
+      "abstract": "RoB Assessor is cataloged as Model in Tier 10 with needs triage status, discoverability score 64/100, and readiness score 58/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Model",
+      "keyword": "Tier 10, Model, Needs triage, medium, Freeze lifecycle status"
+    },
+    {
+      "id": "evidencegapmap-40d",
+      "type": "webpage",
+      "title": "EvidenceGapMap",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidencegapmap-40d.html",
+      "abstract": "EvidenceGapMap is cataloged as Root-level project in Tier 5 with paused status, discoverability score 55/100, and readiness score 56/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Root-level project",
+      "keyword": "Tier 5, Root-level project, Paused, medium, Initialize or repair git"
+    },
+    {
+      "id": "cochranedataextractor-43",
+      "type": "webpage",
+      "title": "CochraneDataExtractor",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/cochranedataextractor-43.html",
+      "abstract": "CochraneDataExtractor is cataloged as Project in Tier 6 with active status, discoverability score 52/100, and readiness score 63/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 6, Project, Active, medium, Complete manuscript bundle"
+    },
+    {
+      "id": "fatiha-course-v2-57",
+      "type": "report",
+      "title": "Fatiha Course v2",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/fatiha-course-v2-57.html",
+      "abstract": "Fatiha Course v2 is cataloged as Project in Tier 8 with needs triage status, discoverability score 52/100, and readiness score 63/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 8, Project, Needs triage, medium, Freeze lifecycle status"
+    },
+    {
+      "id": "repo100-46",
+      "type": "webpage",
+      "title": "repo100",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/repo100-46.html",
+      "abstract": "repo100 is cataloged as Project in Tier 6 with needs triage status, discoverability score 52/100, and readiness score 63/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 6, Project, Needs triage, medium, Freeze lifecycle status"
+    },
+    {
+      "id": "dataextractor-44",
+      "type": "webpage",
+      "title": "Dataextractor",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dataextractor-44.html",
+      "abstract": "Dataextractor is cataloged as Project in Tier 6 with needs triage status, discoverability score 52/100, and readiness score 59/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 6, Project, Needs triage, medium, Freeze lifecycle status"
+    },
+    {
+      "id": "minireview-73",
+      "type": "webpage",
+      "title": "minireview",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/minireview-73.html",
+      "abstract": "minireview is cataloged as Project in Tier 10 with review status, discoverability score 49/100, and readiness score 43/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 10, Project, Review, medium, Initialize or repair git"
+    },
+    {
+      "id": "pfa-af-livingmeta-70",
+      "type": "webpage",
+      "title": "PFA AF LivingMeta",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pfa-af-livingmeta-70.html",
+      "abstract": "PFA AF LivingMeta is cataloged as Project in Tier 10 with active status, discoverability score 39/100, and readiness score 35/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 10, Project, Active, low, Initialize or repair git"
+    },
+    {
+      "id": "meta-epidemiology-bias-correction-79",
+      "type": "webpage",
+      "title": "meta-epidemiology-bias-correction",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/meta-epidemiology-bias-correction-79.html",
+      "abstract": "meta-epidemiology-bias-correction is cataloged as Project in Tier 12 with paused status, discoverability score 30/100, and readiness score 33/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Paused, low, Fix indexed path"
+    },
+    {
+      "id": "synthesis-course-55",
+      "type": "report",
+      "title": "Synthesis Course",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/synthesis-course-55.html",
+      "abstract": "Synthesis Course is cataloged as Course material in Tier 8 with active status, discoverability score 30/100, and readiness score 29/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Course material",
+      "keyword": "Tier 8, Course material, Active, low, Fix indexed path"
+    },
+    {
+      "id": "kmcurve-45",
+      "type": "webpage",
+      "title": "KMcurve",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/kmcurve-45.html",
+      "abstract": "KMcurve is cataloged as Project in Tier 6 with needs triage status, discoverability score 29/100, and readiness score 39/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 6, Project, Needs triage, low, Freeze lifecycle status"
+    },
+    {
+      "id": "prognostic-meta-96",
+      "type": "webpage",
+      "title": "prognostic-meta",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/prognostic-meta-96.html",
+      "abstract": "prognostic-meta is cataloged as Project in Tier 12 with active status, discoverability score 27/100, and readiness score 24/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Active, low, Fix indexed path"
+    },
+    {
+      "id": "metanew-86",
+      "type": "webpage",
+      "title": "Metanew",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metanew-86.html",
+      "abstract": "Metanew is cataloged as Project in Tier 12 with submission ready status, discoverability score 24/100, and readiness score 20/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Submission ready, low, Fix indexed path"
+    },
+    {
+      "id": "new-app-73d",
+      "type": "webpage",
+      "title": "new-app",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/new-app-73d.html",
+      "abstract": "new-app is cataloged as Project in Tier 10 with needs triage status, discoverability score 19/100, and readiness score 39/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 10, Project, Needs triage, low, Freeze lifecycle status"
+    },
+    {
+      "id": "superapp-73c",
+      "type": "webpage",
+      "title": "superapp",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/superapp-73c.html",
+      "abstract": "superapp is cataloged as Project in Tier 10 with needs triage status, discoverability score 19/100, and readiness score 39/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 10, Project, Needs triage, low, Freeze lifecycle status"
+    },
+    {
+      "id": "livingmeta-watchman-69",
+      "type": "webpage",
+      "title": "LivingMeta Watchman",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/livingmeta-watchman-69.html",
+      "abstract": "LivingMeta Watchman is cataloged as Project in Tier 10 with needs triage status, discoverability score 19/100, and readiness score 37/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 10, Project, Needs triage, low, Freeze lifecycle status"
+    },
+    {
+      "id": "fatiha-course-56",
+      "type": "report",
+      "title": "Fatiha Course",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/fatiha-course-56.html",
+      "abstract": "Fatiha Course is cataloged as Project in Tier 8 with needs triage status, discoverability score 19/100, and readiness score 33/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 8, Project, Needs triage, low, Freeze lifecycle status"
+    },
+    {
+      "id": "rayyanreplacement-72",
+      "type": "webpage",
+      "title": "rayyanreplacement",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rayyanreplacement-72.html",
+      "abstract": "rayyanreplacement is cataloged as Project in Tier 10 with needs triage status, discoverability score 19/100, and readiness score 33/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 10, Project, Needs triage, low, Freeze lifecycle status"
+    },
+    {
+      "id": "tricuspid-teer-71",
+      "type": "webpage",
+      "title": "Tricuspid TEER",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/tricuspid-teer-71.html",
+      "abstract": "Tricuspid TEER is cataloged as Project in Tier 10 with needs triage status, discoverability score 19/100, and readiness score 31/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 10, Project, Needs triage, low, Freeze lifecycle status"
+    },
+    {
+      "id": "childnajia-76",
+      "type": "webpage",
+      "title": "childnajia",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/childnajia-76.html",
+      "abstract": "childnajia is cataloged as Project in Tier 11 with needs triage status, discoverability score 19/100, and readiness score 27/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 11, Project, Needs triage, low, Freeze lifecycle status"
+    },
+    {
+      "id": "oman-73b",
+      "type": "webpage",
+      "title": "oman",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/oman-73b.html",
+      "abstract": "oman is cataloged as Project in Tier 10 with needs triage status, discoverability score 19/100, and readiness score 27/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 10, Project, Needs triage, low, Freeze lifecycle status"
+    },
+    {
+      "id": "waternajia-77",
+      "type": "webpage",
+      "title": "waternajia",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/waternajia-77.html",
+      "abstract": "waternajia is cataloged as Project in Tier 11 with needs triage status, discoverability score 19/100, and readiness score 27/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 11, Project, Needs triage, low, Freeze lifecycle status"
+    },
+    {
+      "id": "3dvitreous-grapher-68",
+      "type": "webpage",
+      "title": "3dvitreous-grapher",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/3dvitreous-grapher-68.html",
+      "abstract": "3dvitreous-grapher is cataloged as Project in Tier 10 with needs triage status, discoverability score 19/100, and readiness score 21/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 10, Project, Needs triage, low, Freeze lifecycle status"
+    },
+    {
+      "id": "ipd-zahid-60",
+      "type": "webpage",
+      "title": "IPD Zahid",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-zahid-60.html",
+      "abstract": "IPD Zahid is cataloged as Project in Tier 9 with needs triage status, discoverability score 19/100, and readiness score 21/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 9, Project, Needs triage, low, Freeze lifecycle status"
+    },
+    {
+      "id": "stories-78",
+      "type": "webpage",
+      "title": "Stories",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/stories-78.html",
+      "abstract": "Stories is cataloged as Project in Tier 11 with needs triage status, discoverability score 19/100, and readiness score 21/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 11, Project, Needs triage, low, Freeze lifecycle status"
+    },
+    {
+      "id": "experimental-meta-analysis-91",
+      "type": "webpage",
+      "title": "experimental-meta-analysis",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/experimental-meta-analysis-91.html",
+      "abstract": "experimental-meta-analysis is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 14/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "llm-meta-analysis-81",
+      "type": "webpage",
+      "title": "llm-meta-analysis",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/llm-meta-analysis-81.html",
+      "abstract": "llm-meta-analysis is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 14/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "everything-claude-code-93",
+      "type": "webpage",
+      "title": "everything-claude-code",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/everything-claude-code-93.html",
+      "abstract": "everything-claude-code is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 12/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "tower-98",
+      "type": "webpage",
+      "title": "tower",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/tower-98.html",
+      "abstract": "tower is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 12/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "advanced-nma-pooling-97",
+      "type": "webpage",
+      "title": "advanced-nma-pooling",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/advanced-nma-pooling-97.html",
+      "abstract": "advanced-nma-pooling is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "claude-plugins-102",
+      "type": "webpage",
+      "title": "claude-plugins",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/claude-plugins-102.html",
+      "abstract": "claude-plugins is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "claude-rct-work-101",
+      "type": "webpage",
+      "title": "claude-rct-work",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/claude-rct-work-101.html",
+      "abstract": "claude-rct-work is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "esc-acs-living-meta-85",
+      "type": "webpage",
+      "title": "esc-acs-living-meta",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/esc-acs-living-meta-85.html",
+      "abstract": "esc-acs-living-meta is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "evidence-inference-80",
+      "type": "webpage",
+      "title": "evidence-inference",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidence-inference-80.html",
+      "abstract": "evidence-inference is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "glm-code-104",
+      "type": "webpage",
+      "title": "glm-code",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/glm-code-104.html",
+      "abstract": "glm-code is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "hfpef-registry-calibration-83",
+      "type": "webpage",
+      "title": "hfpef_registry_calibration",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hfpef-registry-calibration-83.html",
+      "abstract": "hfpef_registry_calibration is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "hfpef-registry-synth-82",
+      "type": "webpage",
+      "title": "hfpef_registry_synth",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hfpef-registry-synth-82.html",
+      "abstract": "hfpef_registry_synth is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "idea12-92",
+      "type": "webpage",
+      "title": "idea12",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/idea12-92.html",
+      "abstract": "idea12 is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "ipd-meta-pro-link-94",
+      "type": "webpage",
+      "title": "ipd-meta-pro-link",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-meta-pro-link-94.html",
+      "abstract": "ipd-meta-pro-link is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "ipd-qma-project-95",
+      "type": "webpage",
+      "title": "ipd_qma_project",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-qma-project-95.html",
+      "abstract": "ipd_qma_project is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "mafi-88",
+      "type": "webpage",
+      "title": "MAFI",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mafi-88.html",
+      "abstract": "MAFI is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "mafi-continuation-89",
+      "type": "webpage",
+      "title": "MAFI-Continuation",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mafi-continuation-89.html",
+      "abstract": "MAFI-Continuation is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "maxent-reconstructor-90",
+      "type": "webpage",
+      "title": "maxent-reconstructor",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/maxent-reconstructor-90.html",
+      "abstract": "maxent-reconstructor is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "metafusion-lab-100",
+      "type": "webpage",
+      "title": "MetaFusion-Lab",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metafusion-lab-100.html",
+      "abstract": "MetaFusion-Lab is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "mlm501-87",
+      "type": "webpage",
+      "title": "MLM501",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mlm501-87.html",
+      "abstract": "MLM501 is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "multipledatameta-103",
+      "type": "webpage",
+      "title": "Multipledatameta",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/multipledatameta-103.html",
+      "abstract": "Multipledatameta is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "registry-first-rct-meta-84",
+      "type": "webpage",
+      "title": "registry_first_rct_meta",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/registry-first-rct-meta-84.html",
+      "abstract": "registry_first_rct_meta is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    },
+    {
+      "id": "surronma-99",
+      "type": "webpage",
+      "title": "surroNMA",
+      "author": [
+        {
+          "literal": "Tahir Heart Institute"
+        }
+      ],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/surronma-99.html",
+      "abstract": "surroNMA is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "publisher": "Tahir Heart Institute",
+      "container-title": "PortfolioCatalog",
+      "genre": "Project",
+      "keyword": "Tier 12, Project, Needs triage, low, Fix indexed path"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ipd-zahid-60",
+  "type": "webpage",
+  "title": "IPD Zahid",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-zahid-60.html",
+  "abstract": "IPD Zahid is cataloged as Project in Tier 9 with needs triage status, discoverability score 19/100, and readiness score 21/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Project",
+  "keyword": "Tier 9, Project, Needs triage, low, Freeze lifecycle status"
+}

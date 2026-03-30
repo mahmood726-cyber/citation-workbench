@@ -1,0 +1,23 @@
+{
+  "id": "cres-24",
+  "type": "software",
+  "title": "CRES",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/cres-24.html",
+  "abstract": "CRES is cataloged as Model in Tier 4 with submission ready status, discoverability score 100/100, and readiness score 88/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Model",
+  "keyword": "Tier 4, Model, Submission ready, high, Monitor and maintain"
+}

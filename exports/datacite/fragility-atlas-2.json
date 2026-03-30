@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Fragility Atlas"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Software",
+    "resourceType": "Pipeline+Dashboard"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/fragility-atlas-2.html",
+  "subjects": [
+    {
+      "subject": "Tier 1"
+    },
+    {
+      "subject": "Pipeline+Dashboard"
+    },
+    {
+      "subject": "Needs triage"
+    },
+    {
+      "subject": "high"
+    },
+    {
+      "subject": "Freeze lifecycle status"
+    },
+    {
+      "subject": "BMJ"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "Fragility Atlas is cataloged as Pipeline+Dashboard in Tier 1 with needs triage status, discoverability score 80/100, and readiness score 81/100.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "version": "draft-citation-packet",
+  "rightsList": [
+    {
+      "rights": "No license asserted in the portfolio snapshot"
+    }
+  ]
+}

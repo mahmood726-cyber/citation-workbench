@@ -1,0 +1,23 @@
+{
+  "id": "metaguard-79",
+  "type": "software",
+  "title": "MetaGuard",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaguard-79.html",
+  "abstract": "MetaGuard is cataloged as Model in Tier 10 with active status, discoverability score 90/100, and readiness score 77/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Model",
+  "keyword": "Tier 10, Model, Active, high, Raise FAIR proxy maturity"
+}

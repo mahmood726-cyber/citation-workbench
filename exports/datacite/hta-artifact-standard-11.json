@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational"
+    }
+  ],
+  "titles": [
+    {
+      "title": "HTA Artifact Standard"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Software",
+    "resourceType": "HTML app"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-artifact-standard-11.html",
+  "subjects": [
+    {
+      "subject": "Tier 2"
+    },
+    {
+      "subject": "HTML app"
+    },
+    {
+      "subject": "Shipped"
+    },
+    {
+      "subject": "high"
+    },
+    {
+      "subject": "Monitor and maintain"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "HTA Artifact Standard is cataloged as HTML app in Tier 2 with shipped status, discoverability score 100/100, and readiness score 96/100.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "version": "draft-citation-packet",
+  "rightsList": [
+    {
+      "rights": "No license asserted in the portfolio snapshot"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational"
+    }
+  ],
+  "titles": [
+    {
+      "title": "DTA Pro"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Software",
+    "resourceType": "HTML app"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dta-pro-10.html",
+  "subjects": [
+    {
+      "subject": "Tier 2"
+    },
+    {
+      "subject": "HTML app"
+    },
+    {
+      "subject": "Archived"
+    },
+    {
+      "subject": "high"
+    },
+    {
+      "subject": "Monitor and maintain"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "DTA Pro is cataloged as HTML app in Tier 2 with archived status, discoverability score 100/100, and readiness score 90/100.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "version": "draft-citation-packet",
+  "rightsList": [
+    {
+      "rights": "No license asserted in the portfolio snapshot"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this project record, please cite it using the metadata below."
+title: "Pairwise AI"
+type: software
+authors:
+  - name: "Tahir Heart Institute"
+abstract: "Pairwise AI is cataloged as HTML app in Tier 2 with archived status, discoverability score 80/100, and readiness score 80/100."
+date-released: 2026-03-30
+url: "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pairwise-ai-14.html"
+repository-code: "https://github.com/mahmood726-cyber/citation-workbench"
+license: "NOASSERTION"
+keywords:
+  - "Tier 2"
+  - "HTML app"
+  - "Archived"
+  - "high"
+  - "Make Pages deliverable"

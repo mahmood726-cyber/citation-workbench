@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational"
+    }
+  ],
+  "titles": [
+    {
+      "title": "HTA Transportability"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Model",
+    "resourceType": "Model"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-transportability-50.html",
+  "subjects": [
+    {
+      "subject": "Tier 7"
+    },
+    {
+      "subject": "Model"
+    },
+    {
+      "subject": "Submission ready"
+    },
+    {
+      "subject": "high"
+    },
+    {
+      "subject": "Monitor and maintain"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "HTA Transportability is cataloged as Model in Tier 7 with submission ready status, discoverability score 100/100, and readiness score 92/100.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "version": "draft-citation-packet",
+  "rightsList": [
+    {
+      "rights": "No license asserted in the portfolio snapshot"
+    }
+  ]
+}

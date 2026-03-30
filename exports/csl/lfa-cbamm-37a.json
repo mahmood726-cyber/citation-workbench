@@ -1,0 +1,23 @@
+{
+  "id": "lfa-cbamm-37a",
+  "type": "webpage",
+  "title": "LFA (cbamm)",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/lfa-cbamm-37a.html",
+  "abstract": "LFA (cbamm) is cataloged as Project in Tier 4 with shipped status, discoverability score 90/100, and readiness score 82/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Project",
+  "keyword": "Tier 4, Project, Shipped, high, Raise FAIR proxy maturity"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "asa-63",
+  "type": "software",
+  "title": "Asa",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/asa-63.html",
+  "abstract": "Asa is cataloged as Model in Tier 10 with review status, discoverability score 87/100, and readiness score 75/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Model",
+  "keyword": "Tier 10, Model, Review, high, Raise FAIR proxy maturity"
+}

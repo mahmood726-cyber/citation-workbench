@@ -1,0 +1,23 @@
+{
+  "id": "hta-unified-intel-52",
+  "type": "software",
+  "title": "HTA Unified Intel",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-unified-intel-52.html",
+  "abstract": "HTA Unified Intel is cataloged as Model in Tier 7 with paused status, discoverability score 90/100, and readiness score 82/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Model",
+  "keyword": "Tier 7, Model, Paused, high, Raise FAIR proxy maturity"
+}

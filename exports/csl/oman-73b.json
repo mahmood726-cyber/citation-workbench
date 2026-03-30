@@ -1,0 +1,23 @@
+{
+  "id": "oman-73b",
+  "type": "webpage",
+  "title": "oman",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/oman-73b.html",
+  "abstract": "oman is cataloged as Project in Tier 10 with needs triage status, discoverability score 19/100, and readiness score 27/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Project",
+  "keyword": "Tier 10, Project, Needs triage, low, Freeze lifecycle status"
+}

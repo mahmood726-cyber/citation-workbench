@@ -1,0 +1,23 @@
+{
+  "id": "hta-artifact-standard-11",
+  "type": "software",
+  "title": "HTA Artifact Standard",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-artifact-standard-11.html",
+  "abstract": "HTA Artifact Standard is cataloged as HTML app in Tier 2 with shipped status, discoverability score 100/100, and readiness score 96/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "HTML app",
+  "keyword": "Tier 2, HTML app, Shipped, high, Monitor and maintain"
+}

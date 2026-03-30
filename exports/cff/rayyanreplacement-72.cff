@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this project record, please cite it using the metadata below."
+title: "rayyanreplacement"
+type: generic
+authors:
+  - name: "Tahir Heart Institute"
+abstract: "rayyanreplacement is cataloged as Project in Tier 10 with needs triage status, discoverability score 19/100, and readiness score 33/100."
+date-released: 2026-03-30
+url: "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rayyanreplacement-72.html"
+repository-code: "https://github.com/mahmood726-cyber/citation-workbench"
+license: "NOASSERTION"
+keywords:
+  - "Tier 10"
+  - "Project"
+  - "Needs triage"
+  - "low"
+  - "Freeze lifecycle status"

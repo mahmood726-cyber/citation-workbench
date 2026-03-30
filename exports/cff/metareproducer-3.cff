@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this project record, please cite it using the metadata below."
+title: "MetaReproducer"
+type: software
+authors:
+  - name: "Tahir Heart Institute"
+abstract: "MetaReproducer is cataloged as Python pipeline+HTML in Tier 1 with submission ready status, discoverability score 100/100, and readiness score 85/100."
+date-released: 2026-03-25
+url: "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metareproducer-3.html"
+repository-code: "https://github.com/mahmood726-cyber/citation-workbench"
+license: "NOASSERTION"
+keywords:
+  - "Tier 1"
+  - "Python pipeline+HTML"
+  - "Submission ready"
+  - "high"
+  - "Monitor and maintain"
+  - "BMJ"

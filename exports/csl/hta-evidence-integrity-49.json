@@ -1,0 +1,23 @@
+{
+  "id": "hta-evidence-integrity-49",
+  "type": "software",
+  "title": "HTA Evidence Integrity",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-evidence-integrity-49.html",
+  "abstract": "HTA Evidence Integrity is cataloged as Model in Tier 7 with submission ready status, discoverability score 100/100, and readiness score 90/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Model",
+  "keyword": "Tier 7, Model, Submission ready, high, Monitor and maintain"
+}

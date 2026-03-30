@@ -1,0 +1,23 @@
+{
+  "id": "dataextractor-44",
+  "type": "webpage",
+  "title": "Dataextractor",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dataextractor-44.html",
+  "abstract": "Dataextractor is cataloged as Project in Tier 6 with needs triage status, discoverability score 52/100, and readiness score 59/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Project",
+  "keyword": "Tier 6, Project, Needs triage, medium, Freeze lifecycle status"
+}

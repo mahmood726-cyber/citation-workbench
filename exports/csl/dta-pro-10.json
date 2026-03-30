@@ -1,0 +1,23 @@
+{
+  "id": "dta-pro-10",
+  "type": "software",
+  "title": "DTA Pro",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dta-pro-10.html",
+  "abstract": "DTA Pro is cataloged as HTML app in Tier 2 with archived status, discoverability score 100/100, and readiness score 90/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "HTML app",
+  "keyword": "Tier 2, HTML app, Archived, high, Monitor and maintain"
+}

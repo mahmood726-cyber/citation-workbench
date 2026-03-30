@@ -1,0 +1,23 @@
+{
+  "id": "private-website-75",
+  "type": "webpage",
+  "title": "Private Website",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/private-website-75.html",
+  "abstract": "Private Website is cataloged as Project in Tier 11 with shipped status, discoverability score 87/100, and readiness score 73/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Project",
+  "keyword": "Tier 11, Project, Shipped, high, Raise FAIR proxy maturity"
+}

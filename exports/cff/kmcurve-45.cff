@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this project record, please cite it using the metadata below."
+title: "KMcurve"
+type: generic
+authors:
+  - name: "Tahir Heart Institute"
+abstract: "KMcurve is cataloged as Project in Tier 6 with needs triage status, discoverability score 29/100, and readiness score 39/100."
+date-released: 2026-03-30
+url: "https://mahmood726-cyber.github.io/portfolio-catalog/projects/kmcurve-45.html"
+repository-code: "https://github.com/mahmood726-cyber/citation-workbench"
+license: "NOASSERTION"
+keywords:
+  - "Tier 6"
+  - "Project"
+  - "Needs triage"
+  - "low"
+  - "Freeze lifecycle status"

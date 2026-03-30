@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational"
+    }
+  ],
+  "titles": [
+    {
+      "title": "AutoGRADE"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Project",
+    "resourceType": "Project"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/autograde-54.html",
+  "subjects": [
+    {
+      "subject": "Tier 7"
+    },
+    {
+      "subject": "Project"
+    },
+    {
+      "subject": "Shipped"
+    },
+    {
+      "subject": "high"
+    },
+    {
+      "subject": "Raise FAIR proxy maturity"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "AutoGRADE is cataloged as Project in Tier 7 with shipped status, discoverability score 90/100, and readiness score 82/100.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "version": "draft-citation-packet",
+  "rightsList": [
+    {
+      "rights": "No license asserted in the portfolio snapshot"
+    }
+  ]
+}

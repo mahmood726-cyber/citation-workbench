@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Metanew"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Project",
+    "resourceType": "Project"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metanew-86.html",
+  "subjects": [
+    {
+      "subject": "Tier 12"
+    },
+    {
+      "subject": "Project"
+    },
+    {
+      "subject": "Submission ready"
+    },
+    {
+      "subject": "low"
+    },
+    {
+      "subject": "Fix indexed path"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "Metanew is cataloged as Project in Tier 12 with submission ready status, discoverability score 24/100, and readiness score 20/100.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "version": "draft-citation-packet",
+  "rightsList": [
+    {
+      "rights": "No license asserted in the portfolio snapshot"
+    }
+  ]
+}

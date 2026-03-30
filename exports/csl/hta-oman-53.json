@@ -1,0 +1,23 @@
+{
+  "id": "hta-oman-53",
+  "type": "webpage",
+  "title": "HTA Oman",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-oman-53.html",
+  "abstract": "HTA Oman is cataloged as Project in Tier 7 with paused status, discoverability score 90/100, and readiness score 76/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Project",
+  "keyword": "Tier 7, Project, Paused, high, Raise FAIR proxy maturity"
+}

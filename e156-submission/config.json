@@ -1,0 +1,12 @@
+{
+  "title": "CitationWorkbench: Citation Packet Generation for the C Drive Portfolio",
+  "slug": "citation-workbench",
+  "date": "2026-03-30",
+  "path": ".",
+  "type": "methods",
+  "primary_estimand": "proportion of indexed projects reaching high citation readiness",
+  "certainty": "moderate",
+  "repo_url": "https://github.com/mahmood726-cyber/citation-workbench",
+  "site_url": "https://mahmood726-cyber.github.io/citation-workbench/",
+  "dashboard_url": "https://mahmood726-cyber.github.io/citation-workbench/e156-submission/assets/dashboard.html"
+}

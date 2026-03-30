@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational"
+    }
+  ],
+  "titles": [
+    {
+      "title": "MetaReproducer"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Software",
+    "resourceType": "Python pipeline+HTML"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metareproducer-3.html",
+  "subjects": [
+    {
+      "subject": "Tier 1"
+    },
+    {
+      "subject": "Python pipeline+HTML"
+    },
+    {
+      "subject": "Submission ready"
+    },
+    {
+      "subject": "high"
+    },
+    {
+      "subject": "Monitor and maintain"
+    },
+    {
+      "subject": "BMJ"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "MetaReproducer is cataloged as Python pipeline+HTML in Tier 1 with submission ready status, discoverability score 100/100, and readiness score 85/100.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "version": "draft-citation-packet",
+  "rightsList": [
+    {
+      "rights": "No license asserted in the portfolio snapshot"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Component NMA"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Model",
+    "resourceType": "Model"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/component-nma-103.html",
+  "subjects": [
+    {
+      "subject": "Tier 10"
+    },
+    {
+      "subject": "Model"
+    },
+    {
+      "subject": "Needs triage"
+    },
+    {
+      "subject": "medium"
+    },
+    {
+      "subject": "Freeze lifecycle status"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "Component NMA is cataloged as Model in Tier 10 with needs triage status, discoverability score 64/100, and readiness score 58/100.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "version": "draft-citation-packet",
+  "rightsList": [
+    {
+      "rights": "No license asserted in the portfolio snapshot"
+    }
+  ]
+}

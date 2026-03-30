@@ -1,0 +1,23 @@
+{
+  "id": "prisma-checker-107",
+  "type": "software",
+  "title": "PRISMA Checker",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/prisma-checker-107.html",
+  "abstract": "PRISMA Checker is cataloged as Model in Tier 10 with active status, discoverability score 87/100, and readiness score 75/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Model",
+  "keyword": "Tier 10, Model, Active, high, Raise FAIR proxy maturity"
+}

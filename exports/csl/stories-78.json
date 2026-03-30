@@ -1,0 +1,23 @@
+{
+  "id": "stories-78",
+  "type": "webpage",
+  "title": "Stories",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/stories-78.html",
+  "abstract": "Stories is cataloged as Project in Tier 11 with needs triage status, discoverability score 19/100, and readiness score 21/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Project",
+  "keyword": "Tier 11, Project, Needs triage, low, Freeze lifecycle status"
+}

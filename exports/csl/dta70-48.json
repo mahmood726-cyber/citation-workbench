@@ -1,0 +1,23 @@
+{
+  "id": "dta70-48",
+  "type": "webpage",
+  "title": "DTA70",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dta70-48.html",
+  "abstract": "DTA70 is cataloged as Project in Tier 6 with needs triage status, discoverability score 67/100, and readiness score 69/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Project",
+  "keyword": "Tier 6, Project, Needs triage, medium, Freeze lifecycle status"
+}

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this project record, please cite it using the metadata below."
+title: "prognostic-meta"
+type: generic
+authors:
+  - name: "Tahir Heart Institute"
+abstract: "prognostic-meta is cataloged as Project in Tier 12 with active status, discoverability score 27/100, and readiness score 24/100."
+date-released: 2026-03-30
+url: "https://mahmood726-cyber.github.io/portfolio-catalog/projects/prognostic-meta-96.html"
+repository-code: "https://github.com/mahmood726-cyber/citation-workbench"
+license: "NOASSERTION"
+keywords:
+  - "Tier 12"
+  - "Project"
+  - "Active"
+  - "low"
+  - "Fix indexed path"

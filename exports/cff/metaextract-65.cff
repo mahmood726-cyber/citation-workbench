@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this project record, please cite it using the metadata below."
+title: "MetaExtract"
+type: generic
+authors:
+  - name: "Tahir Heart Institute"
+abstract: "MetaExtract is cataloged as Project in Tier 10 with review status, discoverability score 84/100, and readiness score 69/100."
+date-released: 2026-03-30
+url: "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaextract-65.html"
+repository-code: "https://github.com/mahmood726-cyber/citation-workbench"
+license: "NOASSERTION"
+keywords:
+  - "Tier 10"
+  - "Project"
+  - "Review"
+  - "high"
+  - "Raise FAIR proxy maturity"

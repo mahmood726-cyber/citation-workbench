@@ -1,0 +1,23 @@
+{
+  "id": "ma-workbench-110",
+  "type": "software",
+  "title": "MA Workbench",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ma-workbench-110.html",
+  "abstract": "MA Workbench is cataloged as Model in Tier 10 with shipped status, discoverability score 87/100, and readiness score 75/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Model",
+  "keyword": "Tier 10, Model, Shipped, high, Raise FAIR proxy maturity"
+}

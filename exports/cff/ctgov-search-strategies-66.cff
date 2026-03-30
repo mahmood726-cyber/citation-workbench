@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this project record, please cite it using the metadata below."
+title: "ctgov-search-strategies"
+type: generic
+authors:
+  - name: "Tahir Heart Institute"
+abstract: "ctgov-search-strategies is cataloged as Project in Tier 10 with active status, discoverability score 72/100, and readiness score 65/100."
+date-released: 2026-03-30
+url: "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ctgov-search-strategies-66.html"
+repository-code: "https://github.com/mahmood726-cyber/citation-workbench"
+license: "NOASSERTION"
+keywords:
+  - "Tier 10"
+  - "Project"
+  - "Active"
+  - "high"
+  - "Make Pages deliverable"

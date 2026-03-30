@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "creators": [
+    {
+      "name": "Tahir Heart Institute",
+      "nameType": "Organizational"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Synthesis Course"
+    }
+  ],
+  "publisher": "Tahir Heart Institute",
+  "publicationYear": "2026",
+  "types": {
+    "resourceTypeGeneral": "Text",
+    "resourceType": "Course material"
+  },
+  "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/synthesis-course-55.html",
+  "subjects": [
+    {
+      "subject": "Tier 8"
+    },
+    {
+      "subject": "Course material"
+    },
+    {
+      "subject": "Active"
+    },
+    {
+      "subject": "low"
+    },
+    {
+      "subject": "Fix indexed path"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "Synthesis Course is cataloged as Course material in Tier 8 with active status, discoverability score 30/100, and readiness score 29/100.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "version": "draft-citation-packet",
+  "rightsList": [
+    {
+      "rights": "No license asserted in the portfolio snapshot"
+    }
+  ]
+}

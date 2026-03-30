@@ -1,0 +1,23 @@
+{
+  "id": "metareproducer-3",
+  "type": "software",
+  "title": "MetaReproducer",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metareproducer-3.html",
+  "abstract": "MetaReproducer is cataloged as Python pipeline+HTML in Tier 1 with submission ready status, discoverability score 100/100, and readiness score 85/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "Python pipeline+HTML",
+  "keyword": "Tier 1, Python pipeline+HTML, Submission ready, high, Monitor and maintain, BMJ"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "truthcert-pairwisepro-8",
+  "type": "software",
+  "title": "TruthCert PairwisePro",
+  "author": [
+    {
+      "literal": "Tahir Heart Institute"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026
+      ]
+    ]
+  },
+  "URL": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/truthcert-pairwisepro-8.html",
+  "abstract": "TruthCert PairwisePro is cataloged as HTML app in Tier 2 with maintained status, discoverability score 85/100, and readiness score 86/100.",
+  "publisher": "Tahir Heart Institute",
+  "container-title": "PortfolioCatalog",
+  "genre": "HTML app",
+  "keyword": "Tier 2, HTML app, Maintained, high, Make Pages deliverable"
+}
