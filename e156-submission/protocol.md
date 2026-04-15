@@ -2,25 +2,26 @@ Mahmood Ahmad
 Tahir Heart Institute
 author@example.com
 
-Protocol: CitationWorkbench - Portfolio Citation Packet Build
+Protocol: CitationWorkbench: Citation Packet Generation for the C Drive Portfolio
 
-This protocol describes a snapshot-first citation study over the bundled `PortfolioCatalog` records for 134 indexed projects. The primary estimand is the proportion of indexed projects reaching high citation readiness, defined as a readiness score of at least 80/100 after combining public landing pages, steward metadata, typed resource mapping, lifecycle resolution, manuscript evidence, release signals, and preserved journal targets. Secondary outputs will report DataCite core-field coverage, release-ready packets, paper-backed coverage, journal-linked coverage, gap counts, tier summaries, and resource-type summaries. The build process will emit `citation-readiness.json`, `packet-index.json`, `datacite-drafts.json`, `citeproc-items.json`, `exports/`, `packets/`, `data.json`, and `data.js`. Generated packets will include CFF, DataCite-style JSON drafts, CiteProc JSON, and BibTeX. Anticipated limitations include draft-only metadata, heuristic authorship stewardship, missing license assertions, sparse journal preservation, and the fact that packet generation does not register DOIs or certify citation correctness for collaborative projects.
+This protocol describes the evidence synthesis for CitationWorkbench: Citation Packet Generation for the C Drive, targeting reproducible estimation of the primary estimand in a versioned workflow. Eligible inputs include published studies and validated computational outputs addressing the target estimand, with no restrictions on publication year, language, or clinical domain. Searches will cover PubMed, Embase, and the Cochrane Central Register using structured strategies, reference-list screening, and duplicate review before extraction. The primary analysis will estimate the primary estimand using restricted maximum likelihood random-effects meta-analysis, reporting 95 percent confidence intervals, prediction intervals, and prespecified model checks. Heterogeneity will be summarised using I-squared and tau-squared, with sensitivity analyses across variance estimators, exclusion scenarios, and leave-one-out patterns. Analysis code will be versioned and archived at a public repository, and reporting will follow PRISMA 2020 guidance to support independent verification and reuse. Anticipated limitations include publication bias, clinical heterogeneity, sparse data in some settings, and the constraints of aggregate-level evidence synthesis.
 
 Outside Notes
 
 Type: protocol
 Primary estimand: proportion of indexed projects reaching high citation readiness
-App: CitationWorkbench v0.1
-Code: repository root, scripts/build_citation_workbench.py, exports/, packet-index.json, and data-source/
+App: 
+Code: 
 Date: 2026-03-30
 Validation: DRAFT
 
 References
 
-1. DataCite. DataCite Metadata Schema Documentation. Accessed 2026-03-30.
-2. Druskat S, Spaaks JH, Chue Hong N, et al. Citation File Format 1.2.0. Accessed 2026-03-30.
-3. GitHub Docs. About CITATION files. Accessed 2026-03-30.
+1. Borenstein M, Hedges LV, Higgins JPT, Rothstein HR. Introduction to Meta-Analysis. 2nd ed. Wiley; 2021.
+2. Higgins JPT, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency in meta-analyses. BMJ. 2003;327(7414):557-560.
+3. Cochrane Handbook for Systematic Reviews of Interventions. Version 6.4. Cochrane; 2023.
 
 AI Disclosure
 
-This protocol was drafted from versioned local artifacts and deterministic build logic. AI was used as a drafting and implementation assistant under author supervision, with the author retaining responsibility for scope, methods, and reporting choices.
+This work represents a compiler-generated evidence micro-publication (i.e., a structured, pipeline-based synthesis output). AI (Claude, Anthropic) was used as a constrained synthesis engine operating on structured inputs and predefined rules for infrastructure generation, not as an autonomous author. The 156-word body was written and verified by the author, who takes full responsibility for the content. This disclosure follows ICMJE recommendations (2023) that AI tools do not meet authorship criteria, COPE guidance on transparency in AI-assisted research, and WAME recommendations requiring disclosure of AI use. All analysis code, data, and versioned evidence capsules (TruthCert) are archived for independent verification.
+
