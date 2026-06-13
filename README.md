@@ -30,7 +30,7 @@ The portfolio now has registry, FAIR, operations, drive telemetry, and public ca
 
 Run:
 
-`python C:\Users\user\CitationWorkbench\scripts\build_citation_workbench.py`
+`python scripts/build_citation_workbench.py`
 
 ## Scope note
 
